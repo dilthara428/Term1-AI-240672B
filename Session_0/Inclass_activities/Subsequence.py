@@ -10,8 +10,7 @@ def is_subsequence(x, y):
 
 # Example test cases
 x0 = "apple"
-
-y1 = "adcsjncjsppaxjjnaxle"   # ✅ True (characters appear in order)
+y1 = "adcsjncjsppaxjjnaxle"    # ✅ True (characters appear in order)
 y2 = "bsdpple"                 # ❌ False
 y3 = "paple"                   # ❌ False
 
